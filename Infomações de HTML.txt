@@ -1,0 +1,78 @@
+Links: https://github.com/gustavoguanabara
+https://gustavoguanabara.github.io/
+
+Estrutura Base do HTML, ou no vscode apertar !
+esperar um pouco de depois enter.
+
+&lt; - seria para mostrar <
+&gt; - seria para mostrar >
+&trade; - tm
+&reg; - r
+<hr> - linha horizontal
+<br> - quebrar linha.
+<!-- ola --> - seria forma de comentario.
+&#x1F596 - Forma de colocar emojin no site.
+<ol> </ol> - uma lista ordenada
+<menu> </menu> - um menu com uma lista de itens
+<dir> </dir> - uma lista de diretorio
+<b></b> - Negrito
+<strong> </strong> - negrito e em destaque palavra forte
+<em> </em> - termo em ênfase
+<mark> </mark> - marca o texto.
+<del> </del> - texto deletado
+<ins> </ins> - texto inserido
+<sub> </sub> - numero em cima de outro numero
+<sup> </sup> - numero em baixo de outro
+<pre> </pre> - mostra a formatação já feita no codigo
+<q> </q> - citação, sentido.
+<blockquote cite="https://google.com.br"> <blockquote> - citação completa.
+<abbr> </abbr> - mostra legenda das palavras.
+<bdo> </bdo> - alterar o sentido do texto.
+<ol> </ol> + <li> </li> - ordenar os itens
+<ul type = "circle"> </ul> + <li> </li> - lista não ordenadas.
+<dt> </dt> - termo
+<dd> </dd> - definição
+target="_blank" rel="external" - seria abri um nova aba
+../ - voltar uma página.
+target="_self" - abrir na mesma página.
+CTRL + SHIFT + P = inserir automatico funções
+weight - peso - lighter magro/normal/bold/bolder
+width - largura
+height - altura
+padding - enchimento ou distanciamento/ espaço interno.
+margin - da borda pra fora.
+suer agent - seria o navador que esta exibindo o seu conteudo.
+Em HTML é id e em CSS é #
+em HTML é class em CSS é .
+Pseudoclasse :
+PseudoElemento ::
+
+Pseudoclasse - trabalha com o estado do elemento.
+==============================================
+<!DOCTYPE html>
+<html lang="pt-br">
+   <head>
+       <meta charset="UTF-8">
+       <meta name="viewport"
+       content="width=divice-width,
+       initial-scale=1.0">
+       <title>Document</title>
+   </head>
+   <body>
+       <h1>Olá, Mundo!</h1>
+
+   </body>
+</html>
+
+===============================================
+
+CORES PRIMARIAS:
+
+Amarelo- Vermelho- Azul
+
+CORES SECUNDARIAS:
+
+Laranja - Violeta - Verde
+Obs: paleta de cores tem que ser entre 3 a 4 cores e no maximo 5 cores.
+
+Cores Análogas - seria cores vizinhas 1 de cada lado, direita e esquerda.
