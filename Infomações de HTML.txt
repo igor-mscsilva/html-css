@@ -76,3 +76,12 @@ Laranja - Violeta - Verde
 Obs: paleta de cores tem que ser entre 3 a 4 cores e no maximo 5 cores.
 
 Cores Análogas - seria cores vizinhas 1 de cada lado, direita e esquerda.
+
+HIERARQUIA DE TABELAS (simples)
+        TABLE = tabela
+            TABLE ROWS = linha de tabela (tr)
+                TABLE HEADER = cabeçalho de tabela
+                TABLE DATA = dado de tabela (td)
+
+rowspan="2" - Ocupar 2 linhas na tabela
+colspan="2" - Ocupar 2 colunas na tabela
