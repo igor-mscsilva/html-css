@@ -85,3 +85,9 @@ HIERARQUIA DE TABELAS (simples)
 
 rowspan="2" - Ocupar 2 linhas na tabela
 colspan="2" - Ocupar 2 colunas na tabela
+
+	Min - numero minimo, ex: 0
+        Max - numero maximo, ex: 10
+        step - como os numeros irão pular
+        ex: 0.5
+        Required - campo obrigatorio
