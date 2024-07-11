@@ -90,4 +90,46 @@ colspan="2" - Ocupar 2 colunas na tabela
         Max - numero maximo, ex: 10
         step - como os numeros irão pular
         ex: 0.5
-        Required - campo obrigatorio
+        Required - campo obrigatório
+
+
+
+===================FLEXBOX []===================================
+
+PAI - usa display flex, para modular a caixa aonde terá dentro os itens "filhos".
+
+Display: flex - configuração padrão de FLEX-DIRECTION: ROW "linha deitada"
+
+flex-direction : row-reverse; - itens da direita para esquerda.
+
+flex-diretion : column; - itens em coluna de CIMA para baixo, um item em baixo do outro.
+
+flex-diretion : column-reverse; itens em coluna de BAIXO para cima, um item em cima do outro.
+ 
+=====EIXOS====
+
+   ROW
+
+main-axis - Da esquerda para direita.
+
+Cross-axis - de cima para baixo.
+
+  ROW - REVERSE
+
+main-axis - Da direita para esquerda.
+
+Cross-axis - de cima para baixo.
+
+
+  COLUMN
+
+main-axis - de cima para baixo.
+
+Cross-axis - Da esquerda para direita.
+
+  COLUMN-REVERSE
+
+main-axis - de baixo para cima.
+
+Cross-axis - Da esquerda para direita.
+
