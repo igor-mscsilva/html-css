@@ -133,3 +133,8 @@ main-axis - de baixo para cima.
 
 Cross-axis - Da esquerda para direita.
 
+
+flex-wrap - como o elemento ira ser quebrado quando mudar o tamanho do pai "container".
+
+
+
